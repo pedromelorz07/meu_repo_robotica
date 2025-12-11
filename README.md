@@ -4,7 +4,7 @@ Este repositório contém as soluções para as tasks de ambiente de desenvolvim
 
 ## Estrutura
 - `/task-anterior`: Ambiente ROS básico (Task 01).
-- `/turtlebot4-sim`: Ambiente para simulação do TurtleBot4 (Task 02).
+- `/turtlebot4`: Ambiente para simulação do TurtleBot4 (Task 02).
 
 ## Pré-requisitos
 - Docker instalado
