@@ -3,8 +3,8 @@
 Este repositório contém as soluções para as tasks de ambiente de desenvolvimento e versionamento.
 
 ## Estrutura
-- `/task-anterior`: Ambiente ROS básico (Task 01).
-- `/turtlebot4`: Ambiente para simulação do TurtleBot4 (Task 02).
+- `/task-docker`: Ambiente que contém o Dockerfile do TurtleBot3 e docker-compose.yaml.
+- `/turtlebot4`: Ambiente para simulação do TurtleBot4.
 
 ## Pré-requisitos
 - Docker instalado
